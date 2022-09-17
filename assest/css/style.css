@@ -1,6 +1,20 @@
 *{
 	font-family: 'Roboto', sans-serif;
 }
+
+#image-wallpaper{
+	background-image: url("/assest/img/hero-00.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: left;
+}
+
+.shadow-text{
+	color: #fff;
+	text-shadow: 2px 0 0 #000, 0 -2px 0 #000, 0 2px 0 #000, -2px 0 0 #000;
+
+}
+
 p.footer{
     position: absolute;
     top: -95px;
